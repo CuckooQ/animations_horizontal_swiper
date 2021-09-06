@@ -1,0 +1,30 @@
+{
+  "name": "horizontal_swiper",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "parcel index.html --open"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CuckooQ/animations_horizontal_swiper.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/CuckooQ/animations_horizontal_swiper/issues"
+  },
+  "homepage": "https://github.com/CuckooQ/animations_horizontal_swiper#readme",
+  "devDependencies": {
+    "@babel/core": "^7.15.5",
+    "@babel/plugin-transform-runtime": "^7.15.0",
+    "@babel/preset-env": "^7.15.4",
+    "parcel-bundler": "^1.12.5",
+    "sass": "^1.39.0"
+  },
+  "dependencies": {
+    "material-icons": "^1.2.1",
+    "swiper": "^5.2.0"
+  }
+}
